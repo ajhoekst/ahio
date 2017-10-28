@@ -1,0 +1,3 @@
+[submodule "utils/file-mmap"]
+	path = utils/file-mmap
+	url = https://github.com/ajhoekst/file-mmap
